@@ -1,7 +1,3 @@
-Sure tui — here’s a **clean, short, professional README.md** perfect for GitHub.
-
----
-
 # 📘 **Calculator App (Java AWT)**
 
 A simple calculator application built using **Java AWT** with a clean UI and proper separation of logic and interface.
