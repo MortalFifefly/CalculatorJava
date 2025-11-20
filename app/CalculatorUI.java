@@ -5,7 +5,6 @@ public class CalculatorUI extends Frame implements ActionListener {
 
     TextField display;
 
-    // Added "C" (clear)
     String[] buttons = {
         "7", "8", "9", "/", 
         "4", "5", "6", "*", 
